@@ -1,24 +1,10 @@
 
-
-
 <h1 align="center">Hi , I'm Adhil Salah<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Python+Developer;Self+Taught+Developer;Competitive+Programmer;"></a>
 </p>
 
-
-<br>
-
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
-
-
-
-<br>
-
-
-
-
-
 
 ### 💻 Stack I Work With
 
